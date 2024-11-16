@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Beef Stir-Fry ",
+    "image": "https://i.ytimg.com/vi/xw3y_REW68c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBG6uWLsXf5Qj0qVSrflyPzU94BHw",
+    "recipeType": "Asian",
+    "ingredients": [
+      "500g beef sirloin",
+      "thinly sliced",
+      "1 red bell pepper",
+      "sliced",
+      "1 green bell pepper",
+      "sliced",
+      "1 onion",
+      "sliced",
+      "2 cloves of garlic",
+      "minced",
+      "3 tablespoons soy sauce",
+      "2 tablespoons oyster sauce",
+      "1 tablespoon corn starch",
+      "1 tablespoon vegetable oil",
+      "salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together soy sauce, oyster sauce, cornstarch, salt and pepper.",
+      "Heat oil in a wok or large skillet over high heat.",
+      "Add beef slices and stir-fry until browned. Remove from the wok and set aside.",
+      "In the same wok, add garlic, bell peppers, and onion. Stir fry untill vegetables are crisp tender.",
+      "Return beef to the wok and pour in the sauce mixture.",
+      "Stir fry for a minute until the sauce thickens and coats the ingredients",
+      "Serve hot with the steamed rice or noodles"
+    ]
+  }
+]
